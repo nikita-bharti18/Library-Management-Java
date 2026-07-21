@@ -85,7 +85,7 @@ Library-Management-Java/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Library-Management-Java.git
+git clone https://github.com/nikita-bharti18/Library-Management-Java.git
 ```
 
 ### Navigate to the Project
